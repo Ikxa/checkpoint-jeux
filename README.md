@@ -1,6 +1,6 @@
 # Checkpoint — MVP français de bons plans jeux
 
-Site statique sans dépendances Python, sans base, sans compte visiteur, sans publicités. Réalisé le 10 octobre 2026. Ce paquet est prêt pour prépublication ; aucun dépôt ni site externe n'a encore été créé.
+Site statique sans dépendances Python, sans base, sans compte visiteur, sans publicités. Réalisé le 10 octobre 2026. Dépôt public : https://github.com/Ikxa/checkpoint-jeux. Publication Cloudflare en cours de configuration.
 
 ## Démarrer
 
@@ -32,7 +32,7 @@ Les API utilisées sont officielles **chez les agrégateurs**, pas des API offic
 
 `API → collect.py → data/offers.json → build.py → dist/ → Cloudflare Pages`.
 
-Workflow GitHub livré dans `.github/workflows/refresh.yml` : toutes les 6 heures, à la minute 17 UTC, lancement manuel et à chaque push sur main. Tests, collecte, génération, archive diagnostic et déploiement conditionnel. Aucun achat, inscription d'affiliation ou mail externe automatisé.
+Workflow GitHub livré dans `.github/workflows/refresh.yml` : toutes les 6 heures, à la minute 17 UTC, lancement manuel et à chaque push sur main. Tests, collecte, génération, archive diagnostic, commit des relevés et déploiement Git automatique Cloudflare. Le jeton GitHub éphémère du workflow possède uniquement contents:write ; aucun secret Cloudflare requis. Aucun achat, inscription d'affiliation ou mail externe automatisé.
 
 Déduplication par identifiant de jeu CheapShark : meilleur prix parmi les boutiques récupérées, pas une garantie de meilleur prix universel. Jeux offerts par identifiant GamerPower. Les éditions différentes restent différentes. Pas de rapprochement hasardeux entre catalogues.
 
@@ -42,16 +42,15 @@ Expiration GamerPower : date affichée telle que reçue, avec indication du fuse
 
 ## Déploiement recommandé : 0 €
 
-GitHub connecté au compte `Ikxa` au moment de la préparation, aucune écriture effectuée. Faire confirmer la création d'un dépôt **public** `checkpoint-jeux` pour bénéficier des exécutions standard gratuites ; un dépôt privé est soumis au quota de minutes du compte.
+Le dépôt public `Ikxa/checkpoint-jeux` est créé. L'application GitHub Cloudflare est autorisée uniquement pour ce dépôt.
 
-1. Confirmer dépôt et publication, fournir identité publique de l'éditeur et contact.
-2. Créer un projet Cloudflare Pages gratuit, sous-domaine `pages.dev` ; pas de domaine payant requis. [Tarifs](https://www.cloudflare.com/en-gb/developer-platform/products/pages/), [limites](https://developers.cloudflare.com/pages/platform/limits/).
-3. Ajouter les secrets GitHub `CLOUDFLARE_API_TOKEN` (limité au déploiement Pages du compte), `CLOUDFLARE_ACCOUNT_ID`, les variables `CLOUDFLARE_PROJECT` et `DEPLOY_ENABLED=true`. Ne jamais envoyer les secrets dans le chat ou les committer.
-4. Renseigner `site_url`, `publisher`, `contact` dans config.json. Sans origine définie, prépublication noindex et robots Disallow. Une fois l'origine définie : canonical, sitemap et robots. Ne pas exposer publiquement une identité provisoire.
-5. Lancer workflow_dispatch, vérifier la publication et health.json, puis activer les notifications GitHub Actions d'échec dans les préférences du propriétaire. Cela prépare les alertes mais ne prouve pas leur réception.
-6. Ajouter, si souhaité, un moniteur externe gratuit pour détecter un health.json de plus de 12 h : seuil sur generated_at, pas seulement HTTP 200. Il faut configurer le service et ses alertes après obtention de l'URL ; aucun moniteur externe n'est actif actuellement.
+Configuration Cloudflare Pages : branche `main`, aucun framework, commande `python -m unittest discover -s tests -v && python scripts/build.py`, sortie `dist`. GitHub Actions effectue la collecte toutes les 6 heures et pousse les données actualisées ; Cloudflare reconstruit sur chaque push. Les actions officielles sont figées sur leur SHA.
 
-Le déploiement utilise Wrangler 4 depuis le registre npm. Fixer une version et un SHA des actions après validation de la première exécution distante pour rendre les dépendances reproductibles.
+Aucun token Cloudflare ni mot de passe dans le dépôt. Le workflow GitHub éphémère peut écrire les relevés dans ce dépôt uniquement. Les commits du bot ne relancent pas le workflow GitHub via GITHUB_TOKEN ; Cloudflare reçoit les événements Git.
+
+Identité publique provisoire : pseudonyme GitHub `Ikxa`, contact via les issues du dépôt. Aucun nom réel ou email privé publié. Remplacer ces champs si nécessaire avant activation commerciale. Renseigner `site_url` après confirmation de l'origine ; canonical, robots et sitemap sont alors générés.
+
+Vérifier dans Actions les échecs de collecte et dans Cloudflare les échecs de publication. Le diagnostic public `health.json` doit avoir moins de 12 h. Un moniteur extérieur indépendant de l'ordonnanceur n'est pas encore configuré.
 
 Environ 120 collectes/déploiements par mois (4/jour), sous le quota publié de 500 builds/mois Pages Free. Pas de carte ni offre payante sélectionnée. Coût engagé : **0 €**. Le prix à 0 € dépend du maintien des offres gratuites et des quotas. Ne pas activer d'upgrade automatique.
 

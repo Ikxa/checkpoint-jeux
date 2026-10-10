@@ -6,7 +6,7 @@ on:
   push:
     branches: [main]
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: refresh
   cancel-in-progress: false
@@ -15,8 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.12'
       - name: Tests
@@ -27,20 +29,22 @@ jobs:
         run: python scripts/collect.py
       - name: Construire même en cas de source indisponible
         run: python scripts/build.py
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: site-et-diagnostic
           path: |
             dist/
             data/
           retention-days: 7
-      - name: Publier Cloudflare Pages
-        if: vars.DEPLOY_ENABLED == 'true'
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          PROJECT: ${{ vars.CLOUDFLARE_PROJECT }}
-        run: npx --yes wrangler@4 pages deploy dist --project-name "$PROJECT" --branch main
+      - name: Publier le relevé pour le déploiement Git Cloudflare
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualiser les offres et diagnostics des sources'
+            git push origin HEAD:main
+          fi
       - name: Signaler une collecte dégradée
         if: steps.collect.outcome == 'failure'
         run: |

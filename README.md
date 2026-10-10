@@ -1,6 +1,6 @@
 # Checkpoint — MVP français de bons plans jeux
 
-Site statique sans dépendances Python, sans base, sans compte visiteur, sans publicités. Réalisé le 10 octobre 2026. Dépôt public : https://github.com/Ikxa/checkpoint-jeux. Publication Cloudflare en cours de configuration.
+Site statique sans dépendances Python, sans base, sans compte visiteur, sans publicités. Réalisé le 10 octobre 2026. Dépôt public : https://github.com/Ikxa/checkpoint-jeux. Site publié : https://checkpoint-jeux.pages.dev.
 
 ## Démarrer
 
@@ -50,7 +50,7 @@ Aucun token Cloudflare ni mot de passe dans le dépôt. Le workflow GitHub éph�
 
 Identité publique provisoire : pseudonyme GitHub `Ikxa`, contact via les issues du dépôt. Aucun nom réel ou email privé publié. Remplacer ces champs si nécessaire avant activation commerciale. Renseigner `site_url` après confirmation de l'origine ; canonical, robots et sitemap sont alors générés.
 
-Vérifier dans Actions les échecs de collecte et dans Cloudflare les échecs de publication. Le diagnostic public `health.json` doit avoir moins de 12 h. Un moniteur extérieur indépendant de l'ordonnanceur n'est pas encore configuré.
+Vérifier dans Actions les échecs de collecte et dans Cloudflare les échecs de publication. Le diagnostic public `health.json` doit avoir moins de 12 h. Un second workflow read-only `monitor.yml` vérifie toutes les 6 heures, à la minute 47 UTC, la disponibilité HTTPS de health.json, la fraîcheur inférieure à 12 h et les deux sources. Il ne dépend pas du succès de la collecte. Son premier lancement et les préférences d'alertes doivent être vérifiés. Un arrêt total de GitHub Actions reste indétectable par un autre workflow GitHub ; aucun service de surveillance tiers n'est utilisé.
 
 Environ 120 collectes/déploiements par mois (4/jour), sous le quota publié de 500 builds/mois Pages Free. Pas de carte ni offre payante sélectionnée. Coût engagé : **0 €**. Le prix à 0 € dépend du maintien des offres gratuites et des quotas. Ne pas activer d'upgrade automatique.
 
@@ -66,6 +66,6 @@ Avant activation : accord partenaire, droit de réutiliser un flux de prix EUR/F
 
 ## Interventions résiduelles
 
-Activation initiale GitHub/Cloudflare et informations d'éditeur ; ensuite lecture des alertes et correction lors d'un changement d'API. Vérifier au moins mensuellement la fraîcheur de health.json, les conditions fournisseurs, quotas et workflow. [GitHub désactive les plannings publics après 60 jours sans activité](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/disable-and-enable-workflows?tool=webui) et les exécutions peuvent être retardées. Ce workflow ne crée pas de commits artificiels pour contourner cette limite. Réactivation manuelle ou changement d'ordonnanceur peut être nécessaire. La surveillance extérieure de l'arrêt complet reste à activer.
+Activation initiale GitHub/Cloudflare et informations d'éditeur ; ensuite lecture des alertes et correction lors d'un changement d'API. Vérifier au moins mensuellement la fraîcheur de health.json, les conditions fournisseurs, quotas et workflow. [GitHub désactive les plannings publics après 60 jours sans activité](https://docs.github.com/en/actions/how-tos/manage-workflow-runs/disable-and-enable-workflows?tool=webui) et les exécutions peuvent être retardées. Ce workflow ne crée pas de commits artificiels pour contourner cette limite. Réactivation manuelle ou changement d'ordonnanceur peut être nécessaire. La surveillance par un second workflow est active après son push, mais ne couvre pas un arrêt total de GitHub Actions. Les mises à jour des données créent de vrais commits utiles au déploiement, pas des commits vides de maintien d'activité.
 
 Limites : prix USD, région FR inconnue, catalogues partiels, absence de dates pour certaines offres, pas de contrôle direct du panier ni de disponibilité des clés. Pas de génération vidéo, réseau social, paiement, newsletter, ni revenus automatiques inclus dans ce MVP.

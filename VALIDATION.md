@@ -9,3 +9,15 @@
 - NON testés en production : workflow GitHub, permissions Cloudflare, déploiement distant, réception d'alertes, surveillance externe de l'arrêt du planning, prix de panier et activation en France. Pas de site publié ni de dépôt créé.
 - La panne complète est couverte par un test simulé. La panne partielle est gérée dans le code, mais n'a pas de test dédié. Le timeout/retry n'a pas fait l'objet d'un test injectant un HTTP 429 réel.
 - Restent nécessaires : confirmation des écritures externes, accès Cloudflare, identité/contact éditeur, lancement et vérification du workflow, activation des alertes du propriétaire et du moniteur extérieur. Entretien des fournisseurs et réactivation possible du planning GitHub après inactivité.
+
+## Publication et automatisation
+
+- Dépôt public créé et code poussé : https://github.com/Ikxa/checkpoint-jeux.
+- Site Cloudflare Pages déployé : https://checkpoint-jeux.pages.dev ; compte gratuit, aucun domaine acheté, aucune clé API créée.
+- Application Cloudflare autorisée uniquement pour ce nouveau dépôt, après confirmation explicite des droits.
+- Deux lancements GitHub Actions de collecte réussis, le second a publié un commit de données via le bot.
+- Diagnostic public vérifié par une requête HTTPS réelle : site accessible, deux sources disponibles, données de moins de 12 h.
+- 21 tests réussis avec les nouveaux contrôles de fraîcheur, date future, fuseau et panne d'une source.
+- Workflow distinct de surveillance livré ; validation de son lancement distant en cours.
+- Affiliation désactivée, coût engagé 0 €. Identité utilisée : pseudonyme public Ikxa ; contact via le dépôt.
+- Les notes NON testés de la préparation ci-dessus sont historiques ; les vérifications confirmées dans cette section les remplacent. Un arrêt total du service GitHub et la réception effective d'un message d'alerte restent non simulés.

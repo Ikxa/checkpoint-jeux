@@ -2,7 +2,7 @@
   "minimum_discount": 70,
   "maximum_age_hours": 12,
   "affiliate_enabled": false,
-  "site_url": "",
+  "site_url": "https://checkpoint-jeux.pages.dev",
   "publisher": "Éditeur : Ikxa",
   "contact": "Contact : https://github.com/Ikxa/checkpoint-jeux/issues"
 }

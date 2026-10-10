@@ -1,0 +1,48 @@
+name: Collecter, tester et publier
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Tests
+        run: python -m unittest discover -s tests -v
+      - name: Collecte
+        id: collect
+        continue-on-error: true
+        run: python scripts/collect.py
+      - name: Construire même en cas de source indisponible
+        run: python scripts/build.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-et-diagnostic
+          path: |
+            dist/
+            data/
+          retention-days: 7
+      - name: Publier Cloudflare Pages
+        if: vars.DEPLOY_ENABLED == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PROJECT: ${{ vars.CLOUDFLARE_PROJECT }}
+        run: npx --yes wrangler@4 pages deploy dist --project-name "$PROJECT" --branch main
+      - name: Signaler une collecte dégradée
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo '::error::Une source est indisponible ou son schéma a changé. Voir health.json et les artefacts.'
+          exit 1

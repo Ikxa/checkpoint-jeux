@@ -62,6 +62,7 @@ class Translator(HTMLParser):
         self.out.append(translated)
 
 def english_page(page,canonical):
+    page=page.replace('<title>Checkpoint — jeux offerts & fortes promotions</title>', '<title>Checkpoint — free games &amp; big discounts</title>')
     parser=Translator(); parser.feed(page); parser.close()
     page=''.join(parser.out).replace('<html lang="fr">','<html lang="en">')
     page=page.replace('href="style.css"','href="/style.css"').replace('src="app.js"','src="/app.js"').replace('href="health.json"','href="/health.json"')

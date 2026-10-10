@@ -1,23 +1,40 @@
-# Bilan du 10 octobre 2026
+# Bilan final — 10 octobre 2026
 
-- Collecte réseau réelle finale réussie à 03:53 Europe/Paris : GamerPower 17 jeux, CheapShark 53 jeux après déduplication de 60 offres. Un total de 70 cartes générées. Instantané susceptible de changer.
-- 15 tests Python réussis : remises, exclusion prix zéro et hors promotion, doublons et meilleur prix récupéré, encodage des redirections, jeux complets, exclusion loot, expiration, fraîcheur 12 h, date inconnue, URL dangereuse, contrat API, échappement HTML, échec réseau sans réutilisation d'offres anciennes.
-- Navigateur réel : 70 cartes, filtre gratuit 17, filtre promotions 53, recherche sans résultat et retour à toutes les offres validés. Affichage bureau examiné ; mobile 390 × 844, largeur réelle 375 px, aucune largeur débordante détectée. Capture fournie à côté du dossier.
-- Génération statique réussie, page servie en HTTP local. Interface sans dépendances distantes, liens de source présents. Champs accessibles par leur libellé.
-- Préparation SEO : titre, description, langue française, contenu rendu statiquement ; canonical/sitemap produits lorsqu'une origine est configurée. Prépublication volontairement noindex. Aucun classement ou trafic promis.
-- Coût engagé : 0 €. Affiliation propre au site désactivée et verrou de build si activation prématurée.
-- NON testés en production : workflow GitHub, permissions Cloudflare, déploiement distant, réception d'alertes, surveillance externe de l'arrêt du planning, prix de panier et activation en France. Pas de site publié ni de dépôt créé.
-- La panne complète est couverte par un test simulé. La panne partielle est gérée dans le code, mais n'a pas de test dédié. Le timeout/retry n'a pas fait l'objet d'un test injectant un HTTP 429 réel.
-- Restent nécessaires : confirmation des écritures externes, accès Cloudflare, identité/contact éditeur, lancement et vérification du workflow, activation des alertes du propriétaire et du moniteur extérieur. Entretien des fournisseurs et réactivation possible du planning GitHub après inactivité.
+## Résultat
 
-## Publication et automatisation
+- Site public : https://checkpoint-jeux.pages.dev
+- Dépôt public : https://github.com/Ikxa/checkpoint-jeux
+- 70 offres lors de la validation : 17 jeux signalés comme offerts, 53 promotions après déduplication. Données d'agrégateurs, prix USD et activation en France non vérifiée directement.
+- Coût engagé : 0 €. Cloudflare Pages, sous-domaine gratuit, GitHub Actions sur dépôt public. Aucun achat, abonnement payant ou domaine ajouté. Affiliation de l'éditeur désactivée.
 
-- Dépôt public créé et code poussé : https://github.com/Ikxa/checkpoint-jeux.
-- Site Cloudflare Pages déployé : https://checkpoint-jeux.pages.dev ; compte gratuit, aucun domaine acheté, aucune clé API créée.
-- Application Cloudflare autorisée uniquement pour ce nouveau dépôt, après confirmation explicite des droits.
-- Deux lancements GitHub Actions de collecte réussis, le second a publié un commit de données via le bot.
-- Diagnostic public vérifié par une requête HTTPS réelle : site accessible, deux sources disponibles, données de moins de 12 h.
-- 21 tests réussis avec les nouveaux contrôles de fraîcheur, date future, fuseau et panne d'une source.
-- Workflow distinct de surveillance livré ; validation de son lancement distant en cours.
-- Affiliation désactivée, coût engagé 0 €. Identité utilisée : pseudonyme public Ikxa ; contact via le dépôt.
-- Les notes NON testés de la préparation ci-dessus sont historiques ; les vérifications confirmées dans cette section les remplacent. Un arrêt total du service GitHub et la réception effective d'un message d'alerte restent non simulés.
+## Vérifications réussies
+
+- 21 tests Python : remises, exclusion des prix zéro/hors promotion, doublons, meilleur prix parmi les offres récupérées, encodage des liens, jeux complets, exclusion loot, expiration, fraîcheur, URL dangereuse, schéma inattendu, échappement HTML, panne réseau sans réutilisation de données anciennes, contrôle du site publié et panne d'une source dans son diagnostic.
+- Collectes HTTPS réelles réussies auprès de GamerPower et CheapShark.
+- GitHub Actions : trois lancements de collecte réussis, publication des données par le bot dans le dépôt, et un lancement de surveillance réussi.
+- Cloudflare : premier déploiement puis redéploiements Git automatiques réussis, dont un déclenché par un commit du bot. Aucune clé API Cloudflare créée ; application GitHub autorisée uniquement pour checkpoint-jeux après confirmation explicite.
+- Site public : filtre jeux offerts = 17, recherche sans résultat, retour aux 70 offres, contenu statique, canonical et suppression du noindex confirmés. Responsive contrôlé auparavant à 390 × 844, aucun débordement horizontal détecté.
+- Diagnostic HTTPS public : deux sources disponibles et relevé récent à 04:03 Europe/Paris lors du contrôle final.
+- Notifications GitHub : préférences existantes lues et conservées, workflows en échec uniquement, sur GitHub et par email.
+
+## Automatisation active
+
+- Collecte : toutes les 6 h, minute 17 UTC, et lancement manuel/à chaque push de main. Tests puis collecte, construction, diagnostic, commit utile des données et déploiement Git Cloudflare.
+- Surveillance indépendante du workflow de collecte : toutes les 6 h, minute 47 UTC. Vérifie HTTPS, JSON, fraîcheur < 12 h, horodatage cohérent et état des deux sources. Un échec marque le workflow en erreur.
+- Les plannings peuvent être retardés par GitHub. Le contrôle ne couvre pas un arrêt total de GitHub Actions lui-même. Les préférences d'email sont actives, mais aucune panne artificielle ni réception d'email n'a été provoquée pour ce test.
+
+## Limites et entretien résiduel
+
+- Prix USD, région FR non garantie, API partielles, fins parfois inconnues, quantités et conditions propres à chaque boutique. Aucun prix panier ni activation de clé contrôlé directement.
+- Titres fournis par les sources parfois en anglais ; interface française.
+- Les dates GamerPower sans fuseau restent explicitement telles quelles et entraînent un retrait conservateur ; aucun fuseau officiel inventé.
+- Sans JavaScript, une ancienne page statique peut afficher d'anciens relevés avec leur date. Avec JavaScript, retrait après 12 h ou plus tôt selon l'échéance conservatrice.
+- Les pannes et changements d'API peuvent demander une correction ; vérifier mensuellement le planning, les alertes, conditions fournisseurs et quotas. Réactivation manuelle potentielle si GitHub désactive un workflow pour inactivité.
+- Identité publique utilisée faute d'autre choix : pseudonyme GitHub Ikxa, contact via les issues du dépôt. À adapter avec les informations requises avant activation commerciale.
+- Panne partielle du collecteur, HTTP 429 réel et arrêt global de l'ordonnanceur non testés directement. Le contrôle de santé dégradée est couvert par les tests.
+
+## Preuves distantes
+
+- Collecte et tests : https://github.com/Ikxa/checkpoint-jeux/actions/runs/38015537642
+- Surveillance du site : https://github.com/Ikxa/checkpoint-jeux/actions/runs/38015537646
+- État public : https://checkpoint-jeux.pages.dev/health.json

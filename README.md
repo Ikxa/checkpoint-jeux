@@ -73,3 +73,6 @@ Limites : prix USD, région FR inconnue, catalogues partiels, absence de dates p
 ## Audience et récap mensuel
 Cloudflare Web Analytics activé le 10 octobre 2026 : injection automatique au déploiement Pages, script et destination autorisés par la CSP. La mention de mesure d’audience figure au pied de page. Tableau de bord privé dans Cloudflare, rubrique Web Analytics pour checkpoint-jeux.pages.dev. Les mesures commencent à l’activation, ne reconstituent pas le passé et peuvent être bloquées par les navigateurs. Elles ne mesurent pas les clics sortants ni les revenus.
 Un bilan mensuel est programmé dans cette conversation Codex le 1er à 10 h (heure locale). Il requiert l’application ouverte, un ordinateur allumé et les accès disponibles ; une session expirée sera signalée. La collecte et la surveillance GitHub restent indépendantes de cette tâche locale.
+
+## Langues et identité visuelle
+Version française à / et anglaise à /en/, navigation réciproque, canonical propre à chaque langue et hreflang fr/en. Les titres des jeux restent inchangés. Les ressources et le favicon SVG (drapeau checkpoint avec coche) sont communs. Les deux versions sont générées à chaque collecte. Aucun changement de disponibilité régionale ni conversion monétaire n’est déduit de la langue.

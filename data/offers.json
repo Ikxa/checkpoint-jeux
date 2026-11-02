@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-11-02T05:58:37.120524+00:00",
+  "generated_at": "2026-11-02T15:46:00.000946+00:00",
   "offers": [
-    {
-      "id": "gp-3835",
-      "title": "A New Beginning: Final Cut (GOG) Giveaway",
-      "kind": "free",
-      "price": null,
-      "regular": null,
-      "discount": null,
-      "store": "PC, GOG, DRM-Free",
-      "url": "https://www.gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
-      "expiration": null,
-      "expiration_label": "2026-11-02 23:59:00 (fuseau non précisé par la source)",
-      "region": "Disponibilité en France à confirmer sur la boutique",
-      "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T09:59:00+00:00"
-    },
     {
       "id": "gp-3340",
       "title": "ANCIENT EVIL (IndieGala) Giveaway",
@@ -30,24 +14,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "gp-3836",
-      "title": "Asleep: Act 1 (Steam) Giveaway",
-      "kind": "free",
-      "price": null,
-      "regular": null,
-      "discount": null,
-      "store": "PC, Steam",
-      "url": "https://www.gamerpower.com/asleep-act-1-steam-giveaway",
-      "expiration": null,
-      "expiration_label": "2026-11-02 23:59:00 (fuseau non précisé par la source)",
-      "region": "Disponibilité en France à confirmer sur la boutique",
-      "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T09:59:00+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-1669",
@@ -62,8 +30,8 @@
       "expiration_label": "2026-11-04 23:59:59 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3324",
@@ -78,8 +46,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3328",
@@ -94,8 +62,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-2091",
@@ -110,8 +78,8 @@
       "expiration_label": "2026-11-05 23:59:59 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3496",
@@ -126,8 +94,8 @@
       "expiration_label": "2026-11-05 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3841",
@@ -142,8 +110,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3422",
@@ -158,8 +126,8 @@
       "expiration_label": "2026-11-05 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-2204",
@@ -174,8 +142,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3716",
@@ -190,8 +158,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3839",
@@ -206,8 +174,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3830",
@@ -222,8 +190,8 @@
       "expiration_label": "2026-11-22 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3832",
@@ -238,24 +206,8 @@
       "expiration_label": "2026-11-05 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "gp-3820",
-      "title": "GetHigh.EXE (Epic Games) Giveaway",
-      "kind": "free",
-      "price": null,
-      "regular": null,
-      "discount": null,
-      "store": "PC, Epic Games Store",
-      "url": "https://www.gamerpower.com/gethigh-exe-epic-games-giveaway",
-      "expiration": null,
-      "expiration_label": "2026-11-02 23:59:00 (fuseau non précisé par la source)",
-      "region": "Disponibilité en France à confirmer sur la boutique",
-      "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T09:59:00+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3446",
@@ -270,8 +222,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3838",
@@ -286,8 +238,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3827",
@@ -302,8 +254,8 @@
       "expiration_label": "2026-11-04 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3842",
@@ -318,8 +270,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3840",
@@ -334,8 +286,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3331",
@@ -350,8 +302,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3316",
@@ -366,8 +318,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3829",
@@ -382,8 +334,8 @@
       "expiration_label": "2026-11-04 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3346",
@@ -398,8 +350,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3828",
@@ -414,8 +366,8 @@
       "expiration_label": "2026-11-03 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-2089",
@@ -430,8 +382,8 @@
       "expiration_label": "2026-11-05 23:59:59 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3837",
@@ -446,8 +398,8 @@
       "expiration_label": "2026-11-08 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-1329",
@@ -462,8 +414,8 @@
       "expiration_label": "2026-11-05 23:59:59 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3322",
@@ -478,8 +430,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3251",
@@ -494,8 +446,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3180",
@@ -510,8 +462,8 @@
       "expiration_label": "2026-11-05 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3426",
@@ -526,8 +478,8 @@
       "expiration_label": "2026-11-05 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3421",
@@ -542,8 +494,8 @@
       "expiration_label": "2026-11-05 23:59:35 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "gp-3313",
@@ -558,8 +510,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-334975",
@@ -574,8 +526,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-331167",
@@ -590,8 +542,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-2277",
@@ -606,8 +558,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-2378",
@@ -622,8 +574,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-167643",
@@ -638,8 +590,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-278985",
@@ -654,8 +606,56 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-230621",
+      "title": "Garbage",
+      "kind": "sale",
+      "price": "0.59",
+      "regular": "14.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=iCKul1Nfj7mm76qs8vxPeOXRWYaLdsWk9CH%2B5yy5%2BFg%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-253884",
+      "title": "Great Houses of Calderia",
+      "kind": "sale",
+      "price": "0.99",
+      "regular": "24.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=tB%2FU3yz79BP6yEd3R1DWOSpU0%2BnsXUdHj7qvoKGq%2FmU%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-233546",
+      "title": "RiMS Racing",
+      "kind": "sale",
+      "price": "1.99",
+      "regular": "49.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=3kyxelVNePkxRSwLh%2FuuYmqXBHu1QD1HAr%2BYXab5CPw%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-185150",
@@ -670,8 +670,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-87751",
@@ -686,8 +686,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-106360",
@@ -702,8 +702,24 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-279822",
+      "title": "War Hospital",
+      "kind": "sale",
+      "price": "1.19",
+      "regular": "29.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=tzdMxaAa0rIjABUDZiwsGPGZNafyzdYdhw%2FsCkCS5Ug%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-199102",
@@ -718,8 +734,40 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-206403",
+      "title": "Zombie Army 4: Dead War",
+      "kind": "sale",
+      "price": "1.99",
+      "regular": "49.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=t%2BA9MXRQL0BNUeLWccPP%2BMv2iIfSEWVg9KSivdgwjTo%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-246968",
+      "title": "Zorro The Chronicles",
+      "kind": "sale",
+      "price": "1.19",
+      "regular": "29.99",
+      "discount": 96,
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=ZhIc5Q1T5xBVBqMFPUF0i8hAdYErlDqd5RhXTIloXyY%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-159375",
@@ -734,8 +782,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-171524",
@@ -750,8 +798,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305076",
@@ -766,8 +814,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305079",
@@ -782,8 +830,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-232307",
@@ -798,8 +846,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-239167",
@@ -814,8 +862,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-231642",
@@ -830,8 +878,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305062",
@@ -846,8 +894,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-222031",
@@ -862,24 +910,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-331396",
-      "title": "Explosiver",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=tbI5HMWe1V9wIS87zNa9wtT%2F4STcBdKIVQ2W4OR7tBc%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305077",
@@ -894,8 +926,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305063",
@@ -910,8 +942,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305078",
@@ -926,40 +958,40 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
-      "id": "cs-230621",
-      "title": "Garbage",
-      "kind": "sale",
-      "price": "0.74",
-      "regular": "14.99",
-      "discount": 95,
-      "store": "Humble Store",
-      "url": "https://www.cheapshark.com/redirect?dealID=WX29l0M4%2FqXa12WrgGeevtzBcYQsC0uA9QE74X42V0w%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-331174",
-      "title": "Hacker Man",
+      "id": "cs-219387",
+      "title": "Helheim Hassle",
       "kind": "sale",
       "price": "0.99",
       "regular": "19.99",
       "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=OgMcZhxg%2BH6wUOi7qpWm7gnL2nTykpYzBtM%2B2ihsOjo%3D",
+      "store": "Fanatical",
+      "url": "https://www.cheapshark.com/redirect?dealID=4fPrDk9qDVxXQXzcoW8HgXfHgREGdnZxz%2F4TJhOQ8a4%3D",
       "expiration": null,
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
+    },
+    {
+      "id": "cs-218281",
+      "title": "Hunting Simulator 2",
+      "kind": "sale",
+      "price": "1.71",
+      "regular": "39.99",
+      "discount": 95,
+      "store": "Gamesplanet",
+      "url": "https://www.cheapshark.com/redirect?dealID=9pPX6jYpuKQOYejiF%2Fsxq01lUE%2Bom4K0QEGqorE3Y04%3D",
+      "expiration": null,
+      "expiration_label": "Non communiquée",
+      "region": "Prix USD • tarif et activation en France à confirmer",
+      "source": "CheapShark",
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-322734",
@@ -974,8 +1006,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305061",
@@ -990,8 +1022,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-330711",
@@ -1006,8 +1038,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-310163",
@@ -1022,24 +1054,24 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
-      "id": "cs-331172",
-      "title": "Military Attack",
+      "id": "cs-177855",
+      "title": "Neon",
       "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
+      "price": "0.84",
+      "regular": "16.99",
       "discount": 95,
       "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=SW638oWkhnRW4O7nKsTjtSkLOjOXpbV%2BhshREh%2FXSZY%3D",
+      "url": "https://www.cheapshark.com/redirect?dealID=ztxpvFi%2F83s0H1Iz5msOghDRty2M6jNxc0d6VxszWl8%3D",
       "expiration": null,
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-332454",
@@ -1054,8 +1086,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305060",
@@ -1070,8 +1102,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-205784",
@@ -1086,8 +1118,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-150176",
@@ -1102,8 +1134,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-153168",
@@ -1118,24 +1150,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-334995",
-      "title": "Rescuer",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=kvF7O1ISyQHBxYnOudfiVSmVs%2FDw57NRPUocawU3%2Bw8%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-151213",
@@ -1150,8 +1166,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-197886",
@@ -1166,8 +1182,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-287469",
@@ -1182,8 +1198,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-322735",
@@ -1198,8 +1214,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-303693",
@@ -1214,8 +1230,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-315523",
@@ -1230,40 +1246,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-331194",
-      "title": "The Killer",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=0eQpReCEOGkCeaxwg3DX8y71V594XG6nRCiw7NMKRMA%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-334305",
-      "title": "The Mythical City 2",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=laqj1jCVrvhVfr6hkm02KwM6vslvXoWjymYXTgl5tLo%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-293059",
@@ -1278,40 +1262,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-331171",
-      "title": "The Thief",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=btL815XCVLe9vRZvgnXcy%2FuBnVzDYLl8FmAeduMuheE%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-331168",
-      "title": "The Tower Of Babel",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=wa%2FP8%2BLCXHfEOrsnF55BxX8rfrPXkBnZwMnmZqrVTcE%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-237508",
@@ -1326,24 +1278,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-279822",
-      "title": "War Hospital",
-      "kind": "sale",
-      "price": "1.48",
-      "regular": "29.99",
-      "discount": 95,
-      "store": "GameBillet",
-      "url": "https://www.cheapshark.com/redirect?dealID=tzxEA40an4Z015BYBQU0%2BCOnMmVW%2FGI%2BjCk69PFbQmw%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-291685",
@@ -1358,8 +1294,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-222879",
@@ -1374,8 +1310,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-291687",
@@ -1390,8 +1326,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-146366",
@@ -1406,8 +1342,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-305075",
@@ -1422,8 +1358,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     },
     {
       "id": "cs-279712",
@@ -1438,52 +1374,20 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-227243",
-      "title": "Zack 2: Celestines Map",
-      "kind": "sale",
-      "price": "0.99",
-      "regular": "19.99",
-      "discount": 95,
-      "store": "Steam",
-      "url": "https://www.cheapshark.com/redirect?dealID=OV2yUHNyy5pEk4K5UBkRtM0IY2nPwV8WqJ6nGKQiZxU%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
-    },
-    {
-      "id": "cs-206403",
-      "title": "Zombie Army 4: Dead War",
-      "kind": "sale",
-      "price": "2.00",
-      "regular": "49.99",
-      "discount": 95,
-      "store": "GreenManGaming",
-      "url": "https://www.cheapshark.com/redirect?dealID=hGUUSSX1YCsqMByALOSKB%2FNaVza4cZS53vt8giMp06U%3D",
-      "expiration": null,
-      "expiration_label": "Non communiquée",
-      "region": "Prix USD • tarif et activation en France à confirmer",
-      "source": "CheapShark",
-      "checked_at": "2026-11-02T05:58:25.131571+00:00",
-      "valid_until": "2026-11-02T17:58:25.131571+00:00"
+      "checked_at": "2026-11-02T15:45:58.175839+00:00",
+      "valid_until": "2026-11-03T03:45:58.175839+00:00"
     }
   ],
   "sources": {
     "gamerpower": {
       "ok": true,
-      "count": 35,
-      "checked_at": "2026-11-02T05:58:25.290961+00:00"
+      "count": 32,
+      "checked_at": "2026-11-02T15:45:58.288363+00:00"
     },
     "cheapshark": {
       "ok": true,
-      "count": 57,
-      "checked_at": "2026-11-02T05:58:37.120515+00:00"
+      "count": 54,
+      "checked_at": "2026-11-02T15:46:00.000938+00:00"
     }
   }
 }

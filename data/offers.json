@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:43:22.678545+00:00",
+  "generated_at": "2026-11-22T19:35:31.303511+00:00",
   "offers": [
     {
       "id": "gp-3340",
@@ -14,8 +14,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3324",
@@ -30,8 +30,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3328",
@@ -46,8 +46,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3852",
@@ -62,8 +62,8 @@
       "expiration_label": "2026-12-02 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-2204",
@@ -78,8 +78,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3716",
@@ -94,24 +94,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
-    },
-    {
-      "id": "gp-3830",
-      "title": "Free itch.io Games Bundle",
-      "kind": "free",
-      "price": null,
-      "regular": null,
-      "discount": null,
-      "store": "PC, Itch.io, DRM-Free",
-      "url": "https://www.gamerpower.com/free-itch-io-games-bundle",
-      "expiration": null,
-      "expiration_label": "2026-11-22 23:59:00 (fuseau non précisé par la source)",
-      "region": "Disponibilité en France à confirmer sur la boutique",
-      "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T09:59:00+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3446",
@@ -126,8 +110,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3331",
@@ -142,8 +126,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3316",
@@ -158,8 +142,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3854",
@@ -174,8 +158,8 @@
       "expiration_label": "2026-11-26 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3853",
@@ -190,8 +174,8 @@
       "expiration_label": "2026-11-26 23:59:00 (fuseau non précisé par la source)",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3346",
@@ -206,8 +190,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3322",
@@ -222,8 +206,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "gp-3251",
@@ -238,8 +222,8 @@
       "expiration_label": "Non précisée",
       "region": "Disponibilité en France à confirmer sur la boutique",
       "source": "GamerPower",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-2277",
@@ -254,8 +238,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-2378",
@@ -270,8 +254,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-167643",
@@ -286,8 +270,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-282429",
@@ -302,8 +286,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-278985",
@@ -318,8 +302,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-147281",
@@ -334,8 +318,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-111457",
@@ -350,8 +334,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-270867",
@@ -366,8 +350,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-253884",
@@ -382,8 +366,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-218281",
@@ -398,8 +382,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-119734",
@@ -414,8 +398,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-221477",
@@ -430,8 +414,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-247356",
@@ -446,8 +430,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-233546",
@@ -462,8 +446,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-233568",
@@ -478,8 +462,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-233560",
@@ -494,8 +478,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-233561",
@@ -510,8 +494,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-185150",
@@ -526,8 +510,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-236996",
@@ -542,8 +526,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-87751",
@@ -558,8 +542,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-287469",
@@ -574,8 +558,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-106360",
@@ -590,8 +574,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-144473",
@@ -606,8 +590,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-315523",
@@ -622,8 +606,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-279822",
@@ -638,8 +622,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-281083",
@@ -654,8 +638,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-199102",
@@ -670,8 +654,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-222879",
@@ -686,8 +670,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-206403",
@@ -702,8 +686,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-159375",
@@ -718,8 +702,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-171524",
@@ -734,8 +718,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-274883",
@@ -750,8 +734,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-282430",
@@ -766,8 +750,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-150170",
@@ -782,8 +766,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-217009",
@@ -798,8 +782,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-238128",
@@ -814,8 +798,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-204657",
@@ -830,8 +814,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-274261",
@@ -846,8 +830,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-277602",
@@ -862,8 +846,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-219387",
@@ -878,8 +862,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-184424",
@@ -894,8 +878,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-150176",
@@ -910,8 +894,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-153168",
@@ -926,8 +910,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-197886",
@@ -942,8 +926,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-273928",
@@ -958,8 +942,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-278525",
@@ -974,8 +958,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-278533",
@@ -990,8 +974,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-288503",
@@ -1006,8 +990,8 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     },
     {
       "id": "cs-311725",
@@ -1022,20 +1006,20 @@
       "expiration_label": "Non communiquée",
       "region": "Prix USD • tarif et activation en France à confirmer",
       "source": "CheapShark",
-      "checked_at": "2026-11-22T06:43:22.497704+00:00",
-      "valid_until": "2026-11-22T18:43:22.497704+00:00"
+      "checked_at": "2026-11-22T19:35:30.898008+00:00",
+      "valid_until": "2026-11-23T07:35:30.898008+00:00"
     }
   ],
   "sources": {
     "gamerpower": {
       "ok": true,
-      "count": 15,
-      "checked_at": "2026-11-22T06:43:22.553013+00:00"
+      "count": 14,
+      "checked_at": "2026-11-22T19:35:31.044465+00:00"
     },
     "cheapshark": {
       "ok": true,
       "count": 49,
-      "checked_at": "2026-11-22T06:43:22.678537+00:00"
+      "checked_at": "2026-11-22T19:35:31.303504+00:00"
     }
   }
 }
